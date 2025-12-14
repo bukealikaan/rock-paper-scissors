@@ -1,6 +1,6 @@
 Rock Paper Scissors (CLI Game)
 
-This is a simple Rock Paper Scissors game built with Javascript and the readline module, designed to run entirely in the terminal. The player competes against the computer, which makes random choices each round.
+This is a simple Rock Paper Scissors game built with Javascript, designed to run entirely in the terminal. The player competes against the computer, which makes random choices each round.
 
 The game handles user input safely, normalizes input to avoid case-sensitivity issues, and determines the winner using a numeric mapping strategy instead of repetitive conditional checks. This keeps the logic compact, readable, and scalable.
 
