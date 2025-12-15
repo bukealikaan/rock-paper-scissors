@@ -6,7 +6,6 @@ const rl = readline.createInterface({
 });
 
 const choices = ['rock', 'paper', 'scissors'];
-const numbers = [1,2,3];
 
 function getComputerChoice() {
     const randomChoice = choices[Math.floor(Math.random() * choices.length)];
